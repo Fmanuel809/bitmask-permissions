@@ -4,6 +4,10 @@
 A Node.js package for managing permissions using bitwise operations.
 
 [![npm version](https://badge.fury.io/js/bitmask-permissions.svg)](https://badge.fury.io/js/bitmask-permissions)
+[![NPM Downloads](https://img.shields.io/npm/dm/bitmask-permissions)](https://www.npmjs.com/package/bitmask-permissions)
+[![NPM License](https://img.shields.io/npm/l/bitmask-permissions)](LICENSE.md)
+
+
 
 ## Description
 
