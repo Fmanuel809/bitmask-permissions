@@ -1,6 +1,6 @@
 {
   "name": "bitmask-permissions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Node.js package for managing permissions using bitwise operations.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
