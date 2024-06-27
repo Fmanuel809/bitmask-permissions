@@ -1,12 +1,9 @@
-name: Publish to npm on push to master
+name: Publish to npm on tag
 
 on:
-    push:
-      branches:
-        - master
-    pull_request:
-      branches:
-        - master
+  push:
+    tags:
+      - '*'
 
 jobs:
     build-and-publish:
