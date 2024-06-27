@@ -14,11 +14,11 @@ jobs:
           - 1
           - 2
     steps:
-    - uses: actions/checkout@3
+    - uses: actions/checkout@v3
     - name: Use Node.js 16.x
-      uses: actions/setup-node@3
+      uses: actions/setup-node@v3
       with:
-        node-version: 16.x
+        node-version: 'lts/*'
 
     - name: npm install
       run: npm install
