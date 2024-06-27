@@ -3,6 +3,8 @@
 
 A Node.js package for managing permissions using bitwise operations.
 
+[![npm version](https://badge.fury.io/js/bitmask-permissions.svg)](https://badge.fury.io/js/bitmask-permissions)
+
 ## Description
 
 `bitmask-permissions` is a lightweight library for managing permissions using bitmask values. It allows you to easily add, remove, and validate permissions with high performance and minimal memory usage.
